@@ -11,6 +11,11 @@ Gamemode: samp-open-roleplay (Brian-Less)
 แล้วก็กดเก็บมีรางวัลใน AirDrop จะสุ่ม แล้ว 1-2 นาที AirDrop จะถูกทำล้าย
 หาก สร้าง AirDroP ออกมาแล้วไม่มีคนเก็บจะมีเวลา 10 นาที หากไม่มีการเก็บ AirDrop จะถูกทำลาย!
 
-หมายเหตุ:
+# หมายเหตุ:
+
 - หากเจอบัคสามารถติดต่อเราได้ที่
 - Github: https://github.com/BrianLee1973
+
+# Clone Src
+
+git clone https://github.com/BrianLee1973/System-AirDrop-
